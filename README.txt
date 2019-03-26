@@ -3,6 +3,8 @@
 3-run the command [composer global require laravel/installer]
 4-open the folder xampp/htdocs
 5-put the folder [abc] in path [xampp/htdocs]
+6-open the directory [xampp/htdocs/abc] in command line
+7-run the command [php artisan migrate]
 //---------------------------------------------------
 
 //-----------------APIs------------------------------
